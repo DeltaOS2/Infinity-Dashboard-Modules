@@ -29,7 +29,7 @@
   "dependencies": {
     "apple-reporter": "^2.2.0",
     "currency-formatter": "^1.4.2",
-    "moment": "^2.22.1",
+    "moment": "^2.29.2",
     "xml2js": "^0.4.19"
   }
 }
