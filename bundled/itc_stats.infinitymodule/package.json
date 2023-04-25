@@ -30,6 +30,6 @@
     "apple-reporter": "^2.2.0",
     "currency-formatter": "^1.4.2",
     "moment": "^2.22.1",
-    "xml2js": "^0.4.19"
+    "xml2js": "^0.5.0"
   }
 }
