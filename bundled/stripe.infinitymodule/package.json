@@ -20,6 +20,6 @@
   ],
   "dependencies": {
     "currency-formatter": "^1.4.2",
-    "stripe": "^5.8.0"
+    "stripe": "^8.213.0"
   }
 }
